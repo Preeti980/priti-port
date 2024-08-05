@@ -40,7 +40,7 @@ function About() {
                       </span>
                       <span className='text-sm md:text-md text-justify flex '>
                             <MdEmail  size={30} />
-                           <p className='ml-8  md:text-md'>preetichauhan1939117@gmail.com</p> 
+                           <p className='ml-8 text-sm  md:text-md'>preetichauhan1939117@gmail.com</p> 
                       </span>
                  
                </div>

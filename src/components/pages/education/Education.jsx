@@ -1,9 +1,10 @@
 import React from 'react'
 import { MdSchool } from "react-icons/md";
+import './Education.css'
 function Education() {
   return (
     <>
-    <div className='max-w-screen-2xl container mx-auto px-4 md:px-20 my-28' name="Education">
+    <div className='max-w-screen-2xl container mx-auto px-4 md:px-20 my-28 education' name="Education">
     <div className='text-center'>
         <h1 className='text-3xl font-bold '> Education</h1>
         <p className='text-purple-600'>My Education details</p>
